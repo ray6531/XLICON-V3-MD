@@ -29,7 +29,7 @@
 //GitHub: @salmanytofficial
 //WhatsApp: +254742948136
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
-//   * Created By Github: reiner.
+//   * Created By Github: DGXeon.
 //   * Credit To Xeon
 //   * © 2024 XLICON-V3-MD.
 // ⛥┌┤
@@ -54,11 +54,11 @@ global.botname = process.env.BOT_NAME || 'REINER' //ur bot name
 //________________________________________________________________________________________________________
 global.ownernumber = process.env.SUDO || '254742948136' //ur owner number
 //________________________________________________________________________________________________________
-global.ownername = process.env.SUDO_NAME || 'Reiner' //ur owner name
+global.ownername = process.env.SUDO_NAME || 'REINER JOSHU' //ur owner name
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
 //________________________________________________________________________________________________________
-global.wagc = process.env.GL_PUSH || "https://whatsapp.com/channel/0029VaINgEZKBaK1nDtE3f"
+global.wagc = process.env.GL_PUSH || "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
 //________________________________________________________________________________________________________
 global.themeemoji = process.env.GL_EMOJI || '🏮'
 //________________________________________________________________________________________________________
@@ -81,7 +81,7 @@ global.hituet = 0
 
 //bot sett
 //________________________________________________________________________________________________________
-global.typemenu = process.env.MENU_DESIGN || 'v6' // menu type 'v1' => 'v8'
+global.typemenu = process.env.MENU_DESIGN || 'v4' // menu type 'v1' => 'v8'
 //________________________________________________________________________________________________________
 global.typereply = process.env.REPLY_TYPE || 'v2' // reply type 'v1' => 'v3'
 //________________________________________________________________________________________________________
@@ -89,15 +89,15 @@ global.autoblocknumber = process.env.AUTO_BAN || '212' //set autoblock country c
 //________________________________________________________________________________________________________
 global.antiforeignnumber = process.env.AUTO_BLOCK || '212' //set anti foreign number country code
 //________________________________________________________________________________________________________
-global.welcome = process.env.WELCOME_MSG || true //welcome/left in groups
+global.welcome = process.env.WELCOME_MSG || false //welcome/left in groups
 //________________________________________________________________________________________________________
 global.anticall = process.env.GL_NOCALL || false //bot blocks user when called
 //________________________________________________________________________________________________________
 global.autoswview = process.env.AUTO_STATUS_SEEN || true //auto status/story view
 //________________________________________________________________________________________________________
-global.adminevent = process.env.ANNOUNCE_MSG  || true //show promote/demote message
+global.adminevent = process.env.ANNOUNCE_MSG  || false //show promote/demote message
 //________________________________________________________________________________________________________
-global.groupevent = process.env.GROUP_ANNOUNCE_MSG || true //show update messages in group chat
+global.groupevent = process.env.GROUP_ANNOUNCE_MSG || false //show update messages in group chat
 //________________________________________________________________________________________________________
 
 
